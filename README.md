@@ -1,4 +1,4 @@
-<h1 align="center">👋 Sapper with PostCSS Boilerplate 👋</h1>
+<h1 align="center">👋 Admin panel with TailwindCss Boilerplate 👋</h1>
 
 ## ❓ What is this?
 This is admin template using tailwindcss with support for PostCSS inside Svelte components.
